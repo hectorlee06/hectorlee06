@@ -8,7 +8,7 @@ if (isWork){
   return true
 }
 ```
-![Image of Yaktocat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLJVzyorfQUvWul6-4pla5hQk29T-xQJoqtg&usqp=CAU)
+![Image of Yaktocat](https://asoftwareprogrammer.com/wp-content/uploads/2019/12/How-To-Learn-JavaScript-Quickly.jpg)
 
 
 Here are some ideas to get you started:
